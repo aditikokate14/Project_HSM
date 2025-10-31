@@ -1,2 +1,8 @@
 eclipse.preferences.version=1
+encoding//src/main/webapp/Home.jsp=UTF-8
+encoding//src/main/webapp/bookAppointment.jsp=UTF-8
+encoding//src/main/webapp/dashboard.jsp=UTF-8
+encoding//src/main/webapp/doctorAppointments.jsp=UTF-8
+encoding//src/main/webapp/patientList.jsp=UTF-8
+encoding//src/main/webapp/viewAppointments.jsp=UTF-8
 encoding/<project>=UTF-8
